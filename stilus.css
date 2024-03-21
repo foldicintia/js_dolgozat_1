@@ -1,0 +1,18 @@
+.kiv {
+    background-color: antiquewhite;
+}
+.kepek{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 6vh;
+    justify-content: center;
+}
+img{
+    flex: 0 1 auto;
+    align-self: center;
+    width: 50vh;
+    height: 60vh;
+    padding: 2vh;
+    border: 2px solid grey;
+}
